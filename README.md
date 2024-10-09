@@ -8,5 +8,9 @@
 
 💙 
 
+<<<<<<< HEAD
 ![Jay1](/Jay1.png)
+=======
+![preview img](/Jay1.png)
+>>>>>>> 7e6d5adb782dce75bf04bb3ffead3ae835e7423d
 
