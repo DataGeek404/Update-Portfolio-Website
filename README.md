@@ -6,7 +6,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - 
 
-💙 
+
 
 <<<<<<< HEAD
 ![Jay1](/Jay1.png)
