@@ -364,13 +364,13 @@ body {
 .skills__wrapper {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .skills__content {
   background-color: var(--color-bg-secondary);
   box-shadow: var(--box-shadow);
-  padding: 3rem;
+  padding: 2rem;
 }
 
 .skills__item {
