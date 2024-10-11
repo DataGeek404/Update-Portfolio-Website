@@ -28,13 +28,7 @@ function changeIcon() {
   }
 }
 
-// Downloading Resume
-// document.getElementsByClassName("btn btn--primary").addEventListener("click", function() {
-//   window.location.href = "../../assets/Calvin Mwangi.pdf"
-// })
 
-
-// Testimonial Slide
 
 const testimonialSlide = new Swiper(".testimonial__wrapper", {
   loop: true,
